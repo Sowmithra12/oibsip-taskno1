@@ -12,7 +12,7 @@ A simple and responsive calculator web app built with **HTML**, **CSS**, and **J
 - Error handling for invalid input
 - Styled interface with modern fonts and theme
 
----
+---  http://127.0.0.1:5500/index.html
 
 ## 🧑‍💻 Technologies Used
 
@@ -21,4 +21,12 @@ A simple and responsive calculator web app built with **HTML**, **CSS**, and **J
 - **JavaScript (ES6)** – Logic and interactivity
 
 ---
+
+## 📁 Folder Structure
+calculator/
+│
+├── index.html # Main HTML structure
+├── style.css # Styling with CSS Grid
+└── script.js # Functional JS logic
+
 
